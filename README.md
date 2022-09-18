@@ -1,4 +1,4 @@
-# GIT TEST REPO [^pgTop]
+# GIT TEST REPO [^2]
 
 ## PURPOSE
 - To learn how to work with Git from command line.
@@ -20,8 +20,9 @@ _This is also italic text_
 <sup>This is superscript</sup>  
 
 ###### Quoting text
-And in my darkest moment, fetal and weeping. The moon tells me a secret, a confidant.
-> As full and bright as I am. This light is not my own and, a million light reflections pass over me. -TOOL, Reflection
+And in my darkest moment, fetal and weeping  
+The moon tells me a secret, a confidant.
+> As full and bright as I am  This light is not my own and  A million light reflections pass over me  -TOOL, Reflection
 
 ###### Quoting Code
 `echo encodeThisText | base64`
@@ -82,5 +83,5 @@ These are quite incredible tools!
 
 [^1]: A reference
 
-[^pgTop] Go to the top of page.
+[^2]: Go to the top of page.  
   This footnote has two lines!
