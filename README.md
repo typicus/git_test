@@ -9,15 +9,15 @@
 ## README.MD TESTS
 
 ###### Styling Text
-**This is bold text**
-__This is also bold text__
-*This is italic text*
-_This is also italic text_
-~~This is strikethrough text~~
-**Bold text with nested _italic_ text**
-***ALL BOLD AND ITALIC TEXT***
-<sub>This is subscript</sub>
-<sup>This is superscript</sup>
+**This is bold text**  
+__This is also bold text__  
+*This is italic text*  
+_This is also italic text_  
+~~This is strikethrough text~~  
+**Bold text with nested _italic_ text**  
+***ALL BOLD AND ITALIC TEXT***  
+<sub>This is subscript</sub>  
+<sup>This is superscript</sup>  
 
 ###### Quoting text
 And in my darkest moment, fetal and weeping. The moon tells me a secret, a confidant.
