@@ -26,9 +26,9 @@ _This is also italic text_
 And in my darkest moment, fetal and weeping  
 The moon tells me a secret, a confidant
 > As full and bright as I am  
-  > This light is not my own and
-  > A million light reflections pass over me  
-  > -TOOL, Reflection
+> This light is not my own and  
+> A million light reflections pass over me  
+> -TOOL, Reflection
 
 #### Quoting Code
 `echo encodeThisText | base64`
