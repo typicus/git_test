@@ -21,8 +21,11 @@ _This is also italic text_
 
 ###### Quoting text
 And in my darkest moment, fetal and weeping  
-The moon tells me a secret, a confidant.
-> As full and bright as I am  This light is not my own and  A million light reflections pass over me  -TOOL, Reflection
+> The moon tells me a secret, a confidant.
+<blockquote>
+As full and bright as I am
+This light is not my own and  A million light reflections pass over me  -TOOL, Reflection
+</blockquote>
 
 ###### Quoting Code
 `echo encodeThisText | base64`
