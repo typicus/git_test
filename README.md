@@ -9,6 +9,8 @@
 ## README.MD TESTS
 
 ###### Styling Text
+Headings are made with the bash `#` symbol. Multiply your heading number by bash, eg: `<h4>` \* `#` is `#### My Heading`.
+
 **This is bold text**  
 __This is also bold text__  
 *This is italic text*  
