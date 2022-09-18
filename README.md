@@ -47,7 +47,8 @@ A cool site: [GitHub Pages](https://pages.github.com/)
 Link to our [CSS code](resources/css/main.css)
 
 ###### Display Images
-This can be accomplished via links and relative links.
+This can be accomplished via links and relative links.  
+Be aware that images are INLINE  
 ![Some image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ###### Unordered Lists
