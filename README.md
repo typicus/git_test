@@ -23,10 +23,10 @@ _This is also italic text_
 And in my darkest moment, fetal and weeping  
 > The moon tells me a secret, a confidant.
 <blockquote>
-As full and bright as I am
-This light is not my own and
-A million light reflections pass over me
--TOOL, Reflection
+As full and bright as I am<br/>
+This light is not my own and<br/>
+A million light reflections pass over me<br/>
+-TOOL, Reflection<br/>
 </blockquote>
 
 ###### Quoting Code
