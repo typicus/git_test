@@ -8,7 +8,7 @@
 
 ## README.MD TESTS
 
-###### Styling Text
+#### Styling Text
 Headings are made with the bash `#` symbol. Multiply your heading number by bash.  
 eg: `4 * # = #### = <h4>`  
 
@@ -22,7 +22,7 @@ _This is also italic text_
 <sub>This is subscript</sub>  
 <sup>This is superscript</sup>  
 
-###### Quoting text
+#### Quoting text
 And in my darkest moment, fetal and weeping  
 > The moon tells me a secret, a confidant.
 <blockquote>
@@ -32,7 +32,7 @@ A million light reflections pass over me<br/>
 -TOOL, Reflection<br/>
 </blockquote>
 
-###### Quoting Code
+#### Quoting Code
 `echo encodeThisText | base64`
 
 We can also mark multiple lines of code...[^1]
@@ -43,28 +43,28 @@ git add
 git commit
 ```
 
-###### Links
+#### Links
 A cool site: [GitHub Pages](https://pages.github.com/)
 
-###### Relative Links
+#### Relative Links
 Link to our [CSS code](resources/css/main.css)
 
-###### Display Images
+#### Display Images
 This can be accomplished via links and relative links.  
 Be aware that images are INLINE  
 ![Some image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-###### Unordered Lists
+#### Unordered Lists
 - Item 1
 - Item 2
 - Item 3
 
-###### Ordered Lists
+#### Ordered Lists
 1. Item 1
 2. Item 2
 3. Item 3
 
-###### Nested Lists
+#### Nested Lists
 1. First Step
    - Section 1
    - Section 2
@@ -79,7 +79,7 @@ Be aware that images are INLINE
    - Section 3
      - Item 1
 
-###### Task Lists
+#### Task Lists
 Know that you can slo add issues to a task list by entering the issue number prefixed with a bash as the item.
 - [x] Create Repository
 - [x] Create Index and CSS
